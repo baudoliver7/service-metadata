@@ -1,5 +1,5 @@
 /*
- * The MIT License (MIT) Copyright (c) 2021 Minlessika
+ * Copyright (c) 2021 Minlessika
  * https://github.com/Minlessika/service-metadata/blob/master/LICENSE.txt
  */
 package com.minlessika.service.metadata;
